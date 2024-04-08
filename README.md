@@ -13,6 +13,8 @@ Then, run the `main.py` script and pass the shellcode file path as an argument a
 ## Todo
 
 [ ] - Add some efficiency by joining short instructions into a single `jmp` instruction.
+
 [ ] - If possible, add checks that check if the inputted shellcode is `x86/64`.
+
 [ ] - Test and debug. Also check if it works for `x86` (only tested with `x64`) shellcode.
 
