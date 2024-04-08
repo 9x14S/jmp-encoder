@@ -1,3 +1,13 @@
+# This is a template from github
+
+# Shellcode and asm stuff
+*.o
+*.elf
+*.bin
+*.asm
+tester
+.gdb*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
