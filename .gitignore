@@ -6,6 +6,7 @@
 *.bin
 *.asm
 tester
+Makefile
 .gdb*
 
 # Byte-compiled / optimized / DLL files
